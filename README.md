@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ettarhodanfritz
-- 👀 I’m interested in learning algorithm and daughter structure,application development with oriented object programming,system administration and networki
+- 👀 I’m interested in learning algorithm and data structure,application development with oriented object programming,system administration and networking
 - 🌱 I’m currently learning algorithm and data structure
 - 📫 How to reach me: rhodanfritz@gmail.com
 
